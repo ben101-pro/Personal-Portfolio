@@ -14,9 +14,8 @@ This is a simple personal portfolio website created using HTML, CSS, and JavaScr
 
 ## How to Run the Website
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/Personal-Portfolio.git`
+   `git clone https://github.com/ben101-pro/Personal-Portfolio.git`
 
 2. Open the `index.html` file in your browser.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
